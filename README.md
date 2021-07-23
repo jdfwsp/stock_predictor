@@ -50,11 +50,12 @@ Finally, use the testing data to evaluate each model and compare the performance
 
 Use the above to answer the following:
 
-> Which model has a lower loss?
->
+> Which model has a lower loss? 
+> The closing price model
 > Which model tracks the actual values better over time?
->
+> The closing price model
 > Which window size works best for the model?
+> A window size of 1 worked the best out of the range 1-10
 
 - - -
 
@@ -85,5 +86,3 @@ For training, use at least 10 estimators for both models.
 * Submit the link to your GitHub project to Bootcamp Spot.
 
 - - -
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
