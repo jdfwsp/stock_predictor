@@ -46,16 +46,12 @@ Use the same parameters and training steps for each model. This is necessary to 
 
 ### Evaluate the performance of each model
 
-Finally, use the testing data to evaluate each model and compare the performance.
-
-Use the above to answer the following:
-
-> Which model has a lower loss? 
-> The closing price model
-> Which model tracks the actual values better over time?
-> The closing price model
-> Which window size works best for the model?
-> A window size of 1 worked the best out of the range 1-10
+Which model has a lower loss? 
+* The closing price model
+Which model tracks the actual values better over time?
+* The closing price model
+Which window size works best for the model?
+* A window size of 1 worked the best out of the range 1-10
 
 - - -
 
